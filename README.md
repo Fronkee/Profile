@@ -4,14 +4,14 @@
 I'm a passionate developer who loves creating beautiful and functional applications. Here's a little bit about me:
 
 ## 🔭 What I'm working on
-- 🌱 I’m currently learning [React](https://reactjs.org/)
+- 🌱 I’m currently learning [React](https://kubernetes.io/)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about web development and design
 
 ## 📫 How to reach me
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- Twitter: [@your-twitter](https://twitter.com/your-twitter)
+- Email: [hanwinaungsdg@gmail.com](mailto:hanwinaungsdg@gmail.com)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/han-win-aung-829521239/)
+- Twitter: [@your-twitter](https://twitter.com/)
 
 ## ⚡ Fun fact
 - I love hiking and photography 📸
